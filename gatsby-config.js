@@ -9,16 +9,18 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     title: "Wei Hong",
-    description: "A super-fast site using GatsbyJS",
-    author: "Morgan Baker",
+    description: "The amazing stuff Wei Hong creates, visualized.",
+    author: "Wei Hong Lo",
     twitterUsername: "barcadia",
-    facebookUsername: "barcadia",
-    instagramUsername: "barcadia",
-    linkedinUsername: "morgan-baker-development",
+    facebookUsername: "lowhng95",
+    instagramUsername: "weihong.life",
+    linkedinUsername: "weihonglo",
     image: "/macbook-color.jpg",
-    siteUrl: "https://barcadia.netlify.com",
-    developerName: "Morgan Baker Development",
-    developerUrl: "https://www.morganbaker.dev",
+    siteUrl: "https://weihong.site",
+    developerName: "Wei Hong Lo",
+    developerUrl: "https://www.weihong.site",
+    oriDeveloperName: "Morgan Baker Development",
+    oriDeveloperUrl: "https://www.morganbaker.dev",
   },
   /* Your site config here */
   plugins: [

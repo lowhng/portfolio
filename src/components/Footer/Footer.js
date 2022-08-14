@@ -65,7 +65,7 @@ const Footer = () => {
               Follow Barcadia<span>.</span>
             </h5>
             <ul>
-              {siteMeta.twitterUsername && (
+              {/* {siteMeta.twitterUsername && (
                 <li>
                   <a
                     href={`https://www.twitter.com/${siteMeta.twitterUsername}`}
@@ -75,7 +75,7 @@ const Footer = () => {
                     <Twitter />
                   </a>
                 </li>
-              )}
+              )} */}
               {siteMeta.facebookUsername && (
                 <li>
                   <a
@@ -118,7 +118,7 @@ const Footer = () => {
       <CopyrightStyles>
         <div className="container container__tight">
           <p>
-            Designed & developed by{" "}
+            Designed & developed by <a href="http://www.morganbaker.dev">Morgan Baker Development</a>, edited by {" "}
             <a
               href={siteMeta.developerUrl}
               target="_blank"
