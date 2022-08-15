@@ -118,7 +118,17 @@ const Footer = () => {
       <CopyrightStyles>
         <div className="container container__tight">
           <p>
-            Designed & developed by <a href="http://www.morganbaker.dev">Morgan Baker Development</a>, edited by {" "}
+            Designed & developed by {" "}
+            <a
+              href={siteMeta.oriDeveloperUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {siteMeta.oriDeveloperName}
+            </a>
+          </p>
+          <p>
+            , edited by {" "}
             <a
               href={siteMeta.developerUrl}
               target="_blank"
