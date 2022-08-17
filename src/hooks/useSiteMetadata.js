@@ -12,6 +12,8 @@ export const UseSiteMetadata = () => {
             twitterUsername
             siteUrl
             developerName
+            oriDeveloperName
+            oriDeveloperUrl
             developerUrl
             twitterUsername
             facebookUsername

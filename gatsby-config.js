@@ -15,7 +15,7 @@ module.exports = {
     facebookUsername: "lowhng95",
     instagramUsername: "weihong.life",
     linkedinUsername: "weihonglo",
-    image: "/macbook-color.jpg",
+    image: "/weihong-banner.jpg",
     siteUrl: "https://weihong.site",
     developerName: "Wei Hong Lo",
     developerUrl: "https://www.weihong.site",

@@ -28,6 +28,7 @@ const Index = () => {
         />
         <PerksModule>
           <Perk title="The Title" content="The content" />
+          <span id="midContent"></span>
         </PerksModule>
         <Features
           title="Featured Products from Barcadia."
