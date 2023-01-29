@@ -18,11 +18,8 @@ const Index = () => {
           subTitle="Welcome to my website, I'm interested to show you more! But... This site is still in construction! >.<"
         />
         <BasicTextModule
-          title="A super-fast theme that is easy to get started, using the power of
-            GatsbyJS"
-          content="Using modern CSS properties such as grid, this theme is optmised for
-            speed and mobile devices. Giving users an excellent experience on
-            any device. Future-proofing your product."
+          title="AR, VR or anything interactive really"
+          content="From concept ideation to prototyping, it is my passion to explore new ways of creating innovative and seamless user experiences. Although I specialized in AR and VR for my PhD, I'm generally interested in tech products that solves people's problems."
           link="/products"
           linkText="View Products"
         />
